@@ -166,7 +166,7 @@ MODULE 2:
 <img width="755" height="257" alt="new7" src="https://github.com/user-attachments/assets/60c259b6-8596-4ada-85a7-1b4bff7592e8" />
 
 * screenshot 7:
-<img width="1012" height="815" alt="image" src="https://github.com/user-attachments/assets/94fd5e79-6eef-42bc-8c8e-2126c11323c4" />
+<img width="1113" height="888" alt="image" src="https://github.com/user-attachments/assets/7de09bc9-3ec4-4fcb-9bbc-c06b3abc57d9" />
 
 
 ---
