@@ -113,10 +113,8 @@ The recovered password was then used to verify access to the protected PDF.
 ## 📸 Evidence
 
 Screenshots from both modules will be added to the `evidence` folder.
+MODULE 1:
 
-```text
-evidence/
-├── module-1/
  <img width="943" height="686" alt="image" src="https://github.com/user-attachments/assets/2e20954f-960c-4999-a551-774269860c6c" />
  <img width="877" height="633" alt="PIC2" src="https://github.com/user-attachments/assets/1162f016-180d-4280-869e-e18f24fba0b8" /> <img width="877" height="633" alt="PIC2" src="https://github.com/user-attachments/assets/2fd10e08-753e-48a7-9ba3-75db0f43b61f" />
 
