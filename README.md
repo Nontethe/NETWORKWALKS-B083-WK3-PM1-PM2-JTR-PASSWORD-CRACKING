@@ -113,25 +113,29 @@ The recovered password was then used to verify access to the protected PDF.
 ## 📸 Evidence
 
 MODULE 1:
-
+* screenshot 1:
  <img width="943" height="686" alt="image" src="https://github.com/user-attachments/assets/2e20954f-960c-4999-a551-774269860c6c" />
 
- 
+* screenshot 2: 
  <img width="877" height="633" alt="PIC2" src="https://github.com/user-attachments/assets/1162f016-180d-4280-869e-e18f24fba0b8" /> 
  
-
+* screenshot 3:
  <img width="1132" height="546" alt="PIC6" src="https://github.com/user-attachments/assets/d307e0bf-1251-4629-b3f4-aa2277bd7c4a" /> 
  
- 
+screenshot 4: 
  <img width="990" height="431" alt="PIC7" src="https://github.com/user-attachments/assets/f2a2ad4e-38c6-40cd-af9a-64c77888789e" /> 
  
- 
+ screenshot 5:
  <img width="987" height="631" alt="PIC3" src="https://github.com/user-attachments/assets/5f5b0f1c-efeb-4945-843d-8059e9378749" />
 
-
+screenshot 6:
  <img width="880" height="695" alt="PIC1" src="https://github.com/user-attachments/assets/ec302f89-62ff-4d49-94d8-1ad6f047a96a" /> 
+
+screenshot 7:
+ <img width="775" height="271" alt="PIC8" src="https://github.com/user-attachments/assets/beb76fcf-ad5d-49c5-8152-29bca6997063" />
+
  
- 
+ screenshot 1:
  <img width="1198" height="860" alt="pic11" src="https://github.com/user-attachments/assets/b87bc8ad-b6a0-4dac-b413-773014532128" />
 
 
