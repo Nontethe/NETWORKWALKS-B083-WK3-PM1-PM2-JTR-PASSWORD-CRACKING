@@ -1,5 +1,4 @@
 # NETWORKWALKS-B083-WK3-PM1-PM2-PASSWORD-CRACKING
-Yes — for GitHub, a **shorter README** will look cleaner and more professional. You can copy this directly:
 
 # 🔐 Week 3 | Password Cracking & Password Security
 
@@ -7,12 +6,6 @@ Yes — for GitHub, a **shorter README** will look cleaner and more professional
 ![John the Ripper](https://img.shields.io/badge/Tool-John%20the%20Ripper-black)
 ![Networkwalks](https://img.shields.io/badge/Networkwalks-B083-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-
-## 👤 Author
-
-**Nontethelelo Mahlangu**
-Cybersecurity & Ethical Hacking Intern
-**Program:** Networkwalks | **Batch:** B083 | **Week:** 03
 
 ---
 
@@ -124,10 +117,18 @@ Screenshots from both modules will be added to the `evidence` folder.
 ```text
 evidence/
 ├── module-1/
-│   ├── johnny-configuration.png
-│   ├── pdf-hash.png
-│   ├── cracking-process.png
-│   └── pdf-unlocked.png
+│   ├── <img width="943" height="686" alt="image" src="https://github.com/user-attachments/assets/2e20954f-960c-4999-a551-774269860c6c" />
+
+│   ├── <img width="877" height="633" alt="PIC2" src="https://github.com/user-attachments/assets/1162f016-180d-4280-869e-e18f24fba0b8" /> <img width="877" height="633" alt="PIC2" src="https://github.com/user-attachments/assets/2fd10e08-753e-48a7-9ba3-75db0f43b61f" />
+
+
+│   ├── <img width="1132" height="546" alt="PIC6" src="https://github.com/user-attachments/assets/d307e0bf-1251-4629-b3f4-aa2277bd7c4a" />  <img width="990" height="431" alt="PIC7" src="https://github.com/user-attachments/assets/f2a2ad4e-38c6-40cd-af9a-64c77888789e" />  <img width="987" height="631" alt="PIC3" src="https://github.com/user-attachments/assets/5f5b0f1c-efeb-4945-843d-8059e9378749" />
+
+
+
+│   └── <img width="880" height="695" alt="PIC1" src="https://github.com/user-attachments/assets/ec302f89-62ff-4d49-94d8-1ad6f047a96a" />   <img width="1198" height="860" alt="pic11" src="https://github.com/user-attachments/assets/b87bc8ad-b6a0-4dac-b413-773014532128" />
+
+
 │
 └── module-2/
     ├── hash-calculator.png
